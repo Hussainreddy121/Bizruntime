@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function changethecontent()
+        {
+            var x = document.getElementById("course").value;
+            document.getElementById("s").innerHTML = "you selected " + x;
+        }
+    </script>
+</head>
+<body>
+    <p>please select course</p>
+    <select id="course" onchange="changethecontent()">
+        <option>select course</option>
+        <option value="java">java</option>
+        <option value="CSharp">CSharp</option>
+        <option value="python">python</option>
+        <option value="javascript">javascript</option>
+    </select>
+    <p id="s"></p>
+</body>
+</html>

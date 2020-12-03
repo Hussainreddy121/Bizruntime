@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <script>
+        function changeMethod()
+        {
+            document.getElementById("dc").innerHTML = "After double click";
+        }
+    </script>
+</head>
+<body>
+    <p>double click on button then change the data</p>
+    <p id="dc">before double click</p>
+      <button ondblclick="changeMethod()">click Here</button>
+</body>
+</html>
