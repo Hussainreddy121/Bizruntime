@@ -1,0 +1,13 @@
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.exe
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.deps.json
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.json
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.runtimeconfig.dev.json
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.dll
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\bin\Debug\netcoreapp3.1\Linq.pdb
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.csprojAssemblyReference.cache
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfoInputs.cache
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.AssemblyInfo.cs
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.csproj.CoreCompileInputs.cache
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.dll
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.pdb
+E:\BizRuntime\18-11-2020\Linq\Linq\Linq\obj\Debug\netcoreapp3.1\Linq.genruntimeconfig.cache

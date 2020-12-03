@@ -1,0 +1,13 @@
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\obj\Debug\netcoreapp3.1\CSharpOops.csprojAssemblyReference.cache
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\obj\Debug\netcoreapp3.1\CSharpOops.AssemblyInfoInputs.cache
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\obj\Debug\netcoreapp3.1\CSharpOops.AssemblyInfo.cs
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\obj\Debug\netcoreapp3.1\CSharpOops.csproj.CoreCompileInputs.cache
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\bin\Debug\netcoreapp3.1\CSharpOops.exe
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\bin\Debug\netcoreapp3.1\CSharpOops.deps.json
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\bin\Debug\netcoreapp3.1\CSharpOops.runtimeconfig.json
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\bin\Debug\netcoreapp3.1\CSharpOops.runtimeconfig.dev.json
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\bin\Debug\netcoreapp3.1\CSharpOops.dll
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\bin\Debug\netcoreapp3.1\CSharpOops.pdb
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\obj\Debug\netcoreapp3.1\CSharpOops.dll
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\obj\Debug\netcoreapp3.1\CSharpOops.pdb
+E:\BizRuntime\11-11-2020\CSharpOops\CSharpOops\obj\Debug\netcoreapp3.1\CSharpOops.genruntimeconfig.cache
