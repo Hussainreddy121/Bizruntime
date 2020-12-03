@@ -1,0 +1,31 @@
+Hibernate
+-----------
+==> mainly setter and getters are used in frameworks. 
+     * Setters are used To set the date into Object in client prgrm whatever develop in xml file.
+     * getters are used to read the data.
+==> It is an pojo(plan old java object).
+==> In hibernate we itself  develop the object and set the data with the help of Setters.
+==> All sql commands are same as every database. and functions are not same.
+   * hibernate itself creating sql commands.we specify the only which type of database.(dialect clss in hibernate.cfg.xml)
+   * (hibernate.hbm2ddl.auto>create) it checks the whether table is availabe or not.
+      suppose table is there again new table created and existing data will be removed even it contain data also.
+   * (hibernate.hbm2ddl.auto>none) it does not creat new table whatever existing table is there that table only content will be stored. 
+      if at all data available it is drop the table again create empty table.
+       if it is non it doesnot drop the table and not create new table. 
+   * mapping is used to specify the clss names under session factory.
+      for every table we specify one mapping  with  cls name.hbm.xml in cfg.xml
+  hbm.xml file
+  * any no of clses are provide in mapping.
+  * if mutilple clses are develop in same package to specify package name.(package="com.lara")
+  * In cls body attribute name of cls coloumns name of cls.
+     * 2 types of tag 
+          1. id and 2. property.
+       * id tag is used to primary key coloumn.
+       *. property tag is used for general coloumn.
+    *. framework id tag is mandatory.
+    * in id, property both contain name attribute u specify coloumn name of cls.
+    * Hibernate support ORM mapping (object realative mapping)
+      * Object of cls is mapping row of table
+      * clss is mapping table 
+      * attribute of clss is mapping to attribute name of table.
+    
