@@ -1,0 +1,16 @@
+@import './variablevalues';
+
+ul
+{
+    margin: $margin;
+    width: fit-content;
+
+    
+}
+
+li
+    {
+        color: $color;
+        list-style-type: $listtype;
+        display: $display;
+    }

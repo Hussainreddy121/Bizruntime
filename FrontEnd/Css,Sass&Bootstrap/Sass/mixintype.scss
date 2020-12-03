@@ -1,0 +1,24 @@
+@mixin style-details {
+    
+    text-align: center;
+    font-size: medium;
+    border: 2px solid black;
+    width: fit-content;
+    padding: 10px;
+    
+}
+
+body
+{
+    @include style-details;
+
+}
+p{
+    color: blue;
+}
+#mix
+{
+    color: red;
+}
+
+

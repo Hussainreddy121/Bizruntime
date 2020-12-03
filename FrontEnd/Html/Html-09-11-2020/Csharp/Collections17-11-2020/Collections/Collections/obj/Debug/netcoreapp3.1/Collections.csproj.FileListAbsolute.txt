@@ -1,0 +1,13 @@
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.exe
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.deps.json
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.json
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.runtimeconfig.dev.json
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.dll
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\bin\Debug\netcoreapp3.1\Collections.pdb
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csprojAssemblyReference.cache
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfoInputs.cache
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.AssemblyInfo.cs
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.csproj.CoreCompileInputs.cache
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.dll
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.pdb
+E:\BizRuntime\17-11-2020\Collections\Collections\Collections\obj\Debug\netcoreapp3.1\Collections.genruntimeconfig.cache

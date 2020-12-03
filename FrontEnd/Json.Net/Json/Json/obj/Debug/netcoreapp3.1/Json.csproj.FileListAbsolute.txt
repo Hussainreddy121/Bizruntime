@@ -1,0 +1,15 @@
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\bin\Debug\netcoreapp3.1\Json.exe
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\obj\Debug\netcoreapp3.1\Json.csprojAssemblyReference.cache
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\obj\Debug\netcoreapp3.1\Json.AssemblyInfoInputs.cache
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\obj\Debug\netcoreapp3.1\Json.AssemblyInfo.cs
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\bin\Debug\netcoreapp3.1\Json.deps.json
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\bin\Debug\netcoreapp3.1\Json.runtimeconfig.json
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\bin\Debug\netcoreapp3.1\Json.runtimeconfig.dev.json
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\bin\Debug\netcoreapp3.1\Json.dll
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\bin\Debug\netcoreapp3.1\Json.pdb
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\obj\Debug\netcoreapp3.1\Json.csproj.CoreCompileInputs.cache
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\obj\Debug\netcoreapp3.1\Json.csproj.CopyComplete
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\obj\Debug\netcoreapp3.1\Json.dll
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\obj\Debug\netcoreapp3.1\Json.pdb
+E:\BizRuntime\30-11-2020\Json.Net\Json\Json\obj\Debug\netcoreapp3.1\Json.genruntimeconfig.cache

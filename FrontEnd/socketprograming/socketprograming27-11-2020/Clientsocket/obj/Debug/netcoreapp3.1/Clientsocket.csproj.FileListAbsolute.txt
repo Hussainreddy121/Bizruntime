@@ -1,0 +1,13 @@
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\bin\Debug\netcoreapp3.1\Clientsocket.exe
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\bin\Debug\netcoreapp3.1\Clientsocket.deps.json
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\bin\Debug\netcoreapp3.1\Clientsocket.runtimeconfig.json
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\bin\Debug\netcoreapp3.1\Clientsocket.runtimeconfig.dev.json
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\bin\Debug\netcoreapp3.1\Clientsocket.dll
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\bin\Debug\netcoreapp3.1\Clientsocket.pdb
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\obj\Debug\netcoreapp3.1\Clientsocket.csprojAssemblyReference.cache
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\obj\Debug\netcoreapp3.1\Clientsocket.AssemblyInfoInputs.cache
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\obj\Debug\netcoreapp3.1\Clientsocket.AssemblyInfo.cs
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\obj\Debug\netcoreapp3.1\Clientsocket.csproj.CoreCompileInputs.cache
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\obj\Debug\netcoreapp3.1\Clientsocket.dll
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\obj\Debug\netcoreapp3.1\Clientsocket.pdb
+E:\BizRuntime\27-11-2020\socketprograming\Clientsocket\obj\Debug\netcoreapp3.1\Clientsocket.genruntimeconfig.cache

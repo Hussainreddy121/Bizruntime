@@ -1,0 +1,13 @@
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\netcoreapp3.1\BasicsOfCSharp.exe
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\netcoreapp3.1\BasicsOfCSharp.deps.json
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\netcoreapp3.1\BasicsOfCSharp.runtimeconfig.json
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\netcoreapp3.1\BasicsOfCSharp.runtimeconfig.dev.json
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\netcoreapp3.1\BasicsOfCSharp.dll
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\bin\Debug\netcoreapp3.1\BasicsOfCSharp.pdb
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\netcoreapp3.1\BasicsOfCSharp.csprojAssemblyReference.cache
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\netcoreapp3.1\BasicsOfCSharp.AssemblyInfoInputs.cache
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\netcoreapp3.1\BasicsOfCSharp.AssemblyInfo.cs
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\netcoreapp3.1\BasicsOfCSharp.csproj.CoreCompileInputs.cache
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\netcoreapp3.1\BasicsOfCSharp.dll
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\netcoreapp3.1\BasicsOfCSharp.pdb
+E:\BizRuntime\12-11-2020\BasicsOfCSharp\BasicsOfCSharp\obj\Debug\netcoreapp3.1\BasicsOfCSharp.genruntimeconfig.cache

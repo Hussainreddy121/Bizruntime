@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $("button").dblclick(function(){
+                $("p").hide();
+            });
+        });
+    </script>
+</head>
+<body>
+    <h2>when you click on button the p elements will be hiding</h2>
+    <p> This is first paragraph</p>
+    <p>This is second paragraph</p>
+    <button>click me</button>
+</body>
+</html>

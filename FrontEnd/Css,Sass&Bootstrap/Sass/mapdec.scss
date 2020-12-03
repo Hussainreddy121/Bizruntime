@@ -1,0 +1,17 @@
+$border: 2px solid black;
+$width: 300px;
+$padding: 10px, 10px;
+$fontweights: ("regular": 400,
+               "medium": 500,
+               "bold": 600
+           );
+$color: blue;
+
+p
+{
+   border: $border;
+   width: $width;  
+   padding: $padding;
+   font-weight: map-get($fontweights , bold );
+   color: $color;
+}

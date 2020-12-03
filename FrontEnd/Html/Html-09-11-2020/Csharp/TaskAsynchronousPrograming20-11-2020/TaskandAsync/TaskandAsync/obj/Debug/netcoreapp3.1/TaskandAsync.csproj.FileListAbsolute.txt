@@ -1,0 +1,13 @@
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\bin\Debug\netcoreapp3.1\TaskandAsync.exe
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\bin\Debug\netcoreapp3.1\TaskandAsync.deps.json
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\bin\Debug\netcoreapp3.1\TaskandAsync.runtimeconfig.json
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\bin\Debug\netcoreapp3.1\TaskandAsync.runtimeconfig.dev.json
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\bin\Debug\netcoreapp3.1\TaskandAsync.dll
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\bin\Debug\netcoreapp3.1\TaskandAsync.pdb
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\obj\Debug\netcoreapp3.1\TaskandAsync.csprojAssemblyReference.cache
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\obj\Debug\netcoreapp3.1\TaskandAsync.AssemblyInfoInputs.cache
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\obj\Debug\netcoreapp3.1\TaskandAsync.AssemblyInfo.cs
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\obj\Debug\netcoreapp3.1\TaskandAsync.csproj.CoreCompileInputs.cache
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\obj\Debug\netcoreapp3.1\TaskandAsync.dll
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\obj\Debug\netcoreapp3.1\TaskandAsync.pdb
+E:\BizRuntime\20-11-2020\TaskAsynchronousPrograming\TaskandAsync\TaskandAsync\obj\Debug\netcoreapp3.1\TaskandAsync.genruntimeconfig.cache

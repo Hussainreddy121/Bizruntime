@@ -1,0 +1,12 @@
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\bin\Debug\netcoreapp3.1\Clientpro.exe
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\bin\Debug\netcoreapp3.1\Clientpro.deps.json
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\bin\Debug\netcoreapp3.1\Clientpro.runtimeconfig.json
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\bin\Debug\netcoreapp3.1\Clientpro.runtimeconfig.dev.json
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\bin\Debug\netcoreapp3.1\Clientpro.dll
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\bin\Debug\netcoreapp3.1\Clientpro.pdb
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\obj\Debug\netcoreapp3.1\Clientpro.AssemblyInfoInputs.cache
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\obj\Debug\netcoreapp3.1\Clientpro.AssemblyInfo.cs
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\obj\Debug\netcoreapp3.1\Clientpro.csproj.CoreCompileInputs.cache
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\obj\Debug\netcoreapp3.1\Clientpro.dll
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\obj\Debug\netcoreapp3.1\Clientpro.pdb
+E:\BizRuntime\26-11-2020\Socketprograming\Clientpro\obj\Debug\netcoreapp3.1\Clientpro.genruntimeconfig.cache

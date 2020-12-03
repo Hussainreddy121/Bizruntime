@@ -1,0 +1,23 @@
+h1
+{
+    border: 2px solid black;
+    font-size: 20px;
+    font-style: bold;
+     width: fit-content;
+     padding: 10px, 10px;
+
+}
+
+#p1
+{
+    @extend h1;
+    background-color: aqua;
+    color: brown;
+}
+#p2
+{
+    @extend h1;
+    border: none;
+    color: brown;
+    
+}

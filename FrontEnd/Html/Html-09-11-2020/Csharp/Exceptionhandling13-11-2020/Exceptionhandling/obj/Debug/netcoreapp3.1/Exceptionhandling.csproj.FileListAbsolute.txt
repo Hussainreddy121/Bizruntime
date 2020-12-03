@@ -1,0 +1,13 @@
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.exe
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.deps.json
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.runtimeconfig.json
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.runtimeconfig.dev.json
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.dll
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\bin\Debug\netcoreapp3.1\Exceptionhandling.pdb
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.csprojAssemblyReference.cache
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.AssemblyInfoInputs.cache
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.AssemblyInfo.cs
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.csproj.CoreCompileInputs.cache
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.dll
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.pdb
+E:\BizRuntime\13-11-2020\Exceptionhandling\Exceptionhandling\Exceptionhandling\obj\Debug\netcoreapp3.1\Exceptionhandling.genruntimeconfig.cache

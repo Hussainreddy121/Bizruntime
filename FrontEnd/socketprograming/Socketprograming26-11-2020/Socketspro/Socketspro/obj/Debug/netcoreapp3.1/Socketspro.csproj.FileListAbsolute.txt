@@ -1,0 +1,12 @@
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\bin\Debug\netcoreapp3.1\Socketspro.exe
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\bin\Debug\netcoreapp3.1\Socketspro.deps.json
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\bin\Debug\netcoreapp3.1\Socketspro.runtimeconfig.json
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\bin\Debug\netcoreapp3.1\Socketspro.runtimeconfig.dev.json
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\bin\Debug\netcoreapp3.1\Socketspro.dll
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\bin\Debug\netcoreapp3.1\Socketspro.pdb
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\obj\Debug\netcoreapp3.1\Socketspro.AssemblyInfoInputs.cache
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\obj\Debug\netcoreapp3.1\Socketspro.AssemblyInfo.cs
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\obj\Debug\netcoreapp3.1\Socketspro.csproj.CoreCompileInputs.cache
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\obj\Debug\netcoreapp3.1\Socketspro.dll
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\obj\Debug\netcoreapp3.1\Socketspro.pdb
+E:\BizRuntime\26-11-2020\Socketprograming\Socketspro\Socketspro\obj\Debug\netcoreapp3.1\Socketspro.genruntimeconfig.cache

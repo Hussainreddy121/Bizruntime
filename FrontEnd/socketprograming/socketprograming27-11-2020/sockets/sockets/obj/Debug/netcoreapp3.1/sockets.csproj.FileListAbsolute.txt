@@ -1,0 +1,12 @@
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\bin\Debug\netcoreapp3.1\sockets.exe
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\bin\Debug\netcoreapp3.1\sockets.deps.json
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\bin\Debug\netcoreapp3.1\sockets.runtimeconfig.json
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\bin\Debug\netcoreapp3.1\sockets.runtimeconfig.dev.json
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\bin\Debug\netcoreapp3.1\sockets.dll
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\bin\Debug\netcoreapp3.1\sockets.pdb
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\obj\Debug\netcoreapp3.1\sockets.AssemblyInfoInputs.cache
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\obj\Debug\netcoreapp3.1\sockets.AssemblyInfo.cs
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\obj\Debug\netcoreapp3.1\sockets.csproj.CoreCompileInputs.cache
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\obj\Debug\netcoreapp3.1\sockets.dll
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\obj\Debug\netcoreapp3.1\sockets.pdb
+E:\BizRuntime\27-11-2020\socketprograming\sockets\sockets\obj\Debug\netcoreapp3.1\sockets.genruntimeconfig.cache
